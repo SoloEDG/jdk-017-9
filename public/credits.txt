@@ -1,0 +1,4 @@
+Demo landscape: https://unsplash.com/photos/f978cf4d019e
+Image delivery: https://images.unsplash.com/photo-1470770841072-f978cf4d019e
+Downloaded 2026-11-18. Unsplash license: https://unsplash.com/license
+The demo is a cropped landscape, not a fully spherical 360-degree capture.
