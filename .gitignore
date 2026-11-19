@@ -9,3 +9,8 @@ node_modules/
 .env.*
 !.env.example
 !.env.sample
+
+# print regression artifacts
+test-output/
+harness/.build/
+harness/ui-dist/

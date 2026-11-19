@@ -1,7 +1,7 @@
 import type { RenderSnapshot } from "../../../shared/types";
 import { projectPoint } from "./coordinates";
 import { sample } from "./sampling";
-import { applyEdge } from "../../edge";
+import { applyEdge } from "../../edge/lib/composite";
 export function renderRows(
   s: RenderSnapshot,
   image: ImageData,
